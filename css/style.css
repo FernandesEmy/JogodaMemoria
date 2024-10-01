@@ -16,9 +16,9 @@ body {
     gap: 10px;
     grid-template-areas: 'title title title'
         '. result .'
-        ' .cartas .'
-        ' .cartas .'
-        ' .button .';
+        ' . cartas .'
+        ' . cartas .'
+        ' . button .';
 }
 
 .result {
@@ -57,7 +57,7 @@ h2 {
     flex-wrap: wrap;
 }
 /* Adicione suas regras de estilo aqui*/
-.btn-reiniciar {
+#btn-reiniciar {
     display: none;
     grid-area: button;
     justify-content: center;
