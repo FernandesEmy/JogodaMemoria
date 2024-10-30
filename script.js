@@ -2,12 +2,12 @@ document.addEventListener('DOMContentLoaded', () => {
     //card options
     const cardArray = [
         {
-            name: 'afro',
-            img: './img/afro.jfif'
+            name: 'céu',
+            img: './img/13325.png'
         },
         {
-            name: 'afro',
-            img: './img/afro.jfif'
+            name: 'céu',
+            img: './img/13325.png'
         },
         {
             name: 'pimenta',
